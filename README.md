@@ -1,4 +1,4 @@
-# Prediksi Diabetes Development Streamlit
+# Prediksi Diabetes 
 
 ## Introduction
 
