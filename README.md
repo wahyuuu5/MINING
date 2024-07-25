@@ -19,9 +19,6 @@
 [![Support Vector Machine](https://img.shields.io/badge/Support%20Vector%20Machine-ff69b4.svg?style=for-the-badge&logo=Support-Vector-Machines&logoColor=white)]()
 [![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blueviolet.svg?style=for-the-badge&logo=Logistic-Regression&logoColor=white)]()
 
-## Link to Streamlit App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predict-diabetes-app.streamlit.app/)
 
 ## Introduction
 
@@ -37,35 +34,9 @@ Prediksi Diabetes di deployment Streamlit dengan algoritma SVM adalah sebuah apl
 - Matplotlib 3.5.2
 - Seaborn 0.11.2
 
-## How to Use
-
-**Jika dijalankan di local machine VSCode/Jupyter Notebook**
-
-1. Clone repository ini
-2. Buka terminal dan arahkan ke folder repository
-3. Install requirements dengan perintah `pip install -r requirements.txt`
-4. Jalankan perintah `streamlit run main.py`
-
-**Jika dijalankan di Google Colab**
-
-1. Buka Google Colab
-2. Buat notebook baru
-3. Jalankan perintah berikut pada cell pertama
-   ```
-   !pip install -r requirements.txt
-   ```
-4. Bisa jalankan file `diabetes.ipynb` atau `main.py`
-
-> _Insight_ dari dataset diabetes dapat dilihat di file [diabetes.ipynb](https://github.com/Fauzan-Kamil/predict-diabetes-streamlit/blob/master/diabetes.ipynb)
-
-```
-Bagi yang penasaran dengan insights dari dataset diabetes, yuk cek file diabetes.ipynb!
-Di sana tersedia informasi menarik yang dapat meningkatkan pemahaman kita tentang dataset tersebut.
-```
-
 ## Struktur Folder
 
-```
+
 📦predict-diabetes-streamlit
  ┣ 📂.ipynb_checkpoints
  ┃ ┗ 📜diabetes-checkpoint.ipynb
@@ -86,8 +57,4 @@ Di sana tersedia informasi menarik yang dapat meningkatkan pemahaman kita tentan
  ┣ 📜model_svm.pkl
  ┣ 📜README.md
  ┗ 📜requirements.txt
-```
 
-## Create a
-
-Author : [Fauzan Kamil](https://github.com/Fauzan-Kamil)
